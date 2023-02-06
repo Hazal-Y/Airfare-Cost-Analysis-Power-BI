@@ -1,6 +1,6 @@
 # Airfare Cost Analysis - Power BI Project
 
-## Objectives
+## Objective
 
 • To analyze and visualize the airfare expenses of a company in order to give insight to management about how to proceed with next year's
 budget planning. 
